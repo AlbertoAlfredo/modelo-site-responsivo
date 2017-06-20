@@ -1,9 +1,9 @@
 {
-  "name": "achei-no-pao",
+  "name": "modelo-site-simples",
   "authors": [
     "AlbertoAlfredo <albertoalfredo.profissional@gmail.com>"
   ],
-  "description": "Site criado para uma empresa de publicidade em sacos de pão",
+  "description": "Site criado para manter um modelo de site responsivo simples",
   "main": "assets/scripts/main.js",
   "keywords": [
     "Site",
@@ -20,7 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.2.1",
-    "bootstrap": "bootstrap#^3.3.7"
+    "bootstrap": "bootstrap#^4.0.0-alpha.6"
   }
 }
